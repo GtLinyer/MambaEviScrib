@@ -38,12 +38,12 @@ The dataset folder structure is organized as follows: each `fold` represents one
 ## Usage
 To train a binary segmentation task (background + foreground), execute the following command (ensure to modify the necessary paths and configurations accordingly):
 ```
-python train_bin_class.sh
+./train_bin_class.sh
 ``` 
 
 To train a multi-class segmentation task (including background class 0, with 5 classes by default in this work), execute the following command:
 ```
-python train_multi_class.sh
+./train_multi_class.sh
 ``` 
 To evaluate the model on the test set, run either `test.py` or `test_bin.py`.
 
