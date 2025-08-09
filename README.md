@@ -2,7 +2,7 @@
 by [Xiaoxiang Han](https://linyer.ac.cn/), Xinyu Li, [Jiang Shang](https://scholar.google.com/citations?user=-jM7c_YAAAAJ), [Yiman Liu](https://linyer.ac.cn/authors/yiman-liu/), Keyan Chen, [Shugong Xu](https://scie.shu.edu.cn/Prof/xusg.htm), [Qiaohong Liu](https://yjsjy.sumhs.edu.cn/lqh/main.htm), and [Qi Zhang](https://scie.shu.edu.cn/Prof/zhangq.htm).
 
 ## Introduction
-This repository contains the official implementation of *MambaEviScrib*. The corresponding paper, titled "[MambaEviScrib: Mamba and evidence-guided consistency enhance CNN robustness for scribble-based weakly supervised ultrasound image segmentation](https://doi.org/10.7717/peerj-cs.1467)", has been published in *Information Fusion*. For any inquiries or issues, please contact [hanxx@shu.edu.cn](mailto:hanxx@shu.edu.cn).
+This repository contains the official implementation of *MambaEviScrib*. The corresponding paper, titled "[MambaEviScrib: Mamba and evidence-guided consistency enhance CNN robustness for scribble-based weakly supervised ultrasound image segmentation](https://doi.org/10.1016/j.inffus.2025.103590)", has been published in *Information Fusion*. For any inquiries or issues, please contact [hanxx@shu.edu.cn](mailto:hanxx@shu.edu.cn).
 
 ## Contributions 
 1. We propose a dual-branch scribble-based weakly supervised segmentation framework comprising CNN and Mamba, which respectively extract and fuse local and global features from ultrasound images.
